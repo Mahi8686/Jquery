@@ -1,0 +1,25 @@
+rect
+{
+  fill:darkgrey;
+}
+text{
+  height:100px;
+}
+.axis {
+  font: 10px sans-serif;
+}
+.axis path,.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.table{
+  margin-left: 50px;
+  float: left;
+}
+
+#second{
+  float: left;
+  margin-left: 100px;
+}
